@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:1a0030&height=220&section=header&text=Daniel%20Gidrewicz&fontSize=60&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=OOP%20%2F%20Software%20Developer%20%2F%20DevOps%20%E2%80%94%20God%27s%20Blessed%20Developer&descAlignY=68&descSize=15&descColor=a78bfa" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=OOP+%26+Software+Developer;DevOps+Engineer+%7C+System+Tinkerer;Open+Source+Enthusiast;Game+Dev+%7C+Homelab+Nerd;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=OOP+%26+Software+Developer;DevOps+Engineer+%7C+System+Tinkerer;Open+Source+Enthusiast;Game+Dev+%7C+Homelab+Nerd;Always+learning%2C+always+building..." alt="Typing SVG"/>
 
 <!-- PROFILE VIEWS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=blessedlab&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
@@ -14,7 +14,7 @@
 ---
 
 <!-- ABOUT ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="28" alt="ninja"/> About Me
+## <img src="https://i.imgur.com/dBaSKWF.gif" width="28" alt="fire"/> About Me
 
 ```yaml
 name:             Daniel Gidrewicz
@@ -41,7 +41,7 @@ fun_fact:         "I automate everything I do more than twice"
 ---
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" alt="stats"/> GitHub Stats
+## <img src="https://media.giphy.com/media/cIn5fTcjnXCaobYOrU/giphy.gif" width="28" alt="stats"/> GitHub Stats
 
 <div align="center">
 
@@ -57,7 +57,7 @@ fun_fact:         "I automate everything I do more than twice"
 ---
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" alt="laptop"/> Tech Stack
+## <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="28" alt="itachi"/> Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -110,7 +110,7 @@ fun_fact:         "I automate everything I do more than twice"
 ---
 
 <!-- ACTIVITY GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" alt="graph"/> Contribution Activity
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28" alt="graph"/> Contribution Activity
 
 <div align="center">
 
@@ -121,9 +121,9 @@ fun_fact:         "I automate everything I do more than twice"
 ---
 
 <!-- FAVOURITE ANIME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="28" alt="anime"/> Favourite Anime
+## <img src="https://media.giphy.com/media/ye7OTQgwmVuVy/giphy.gif" width="28" alt="anime"/> Favourite Anime
 
-| # | Anime | 
+| # | Anime |
 |---|-------|
 | 01 | **Neon Genesis Evangelion** |
 | 02 | **Code Geass: Lelouch of the Rebellion** |
@@ -136,7 +136,7 @@ fun_fact:         "I automate everything I do more than twice"
 ---
 
 <!-- FRIENDS & COLLABORATORS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" width="28" alt="friends"/> Best Friends & Collaborators
+## <img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="28" alt="friends"/> Best Friends & Collaborators
 
 <div align="center">
 
@@ -158,19 +158,8 @@ fun_fact:         "I automate everything I do more than twice"
 
 ---
 
-<!-- QUOTE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="28" alt="quote"/> Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 <!-- CONTACT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" alt="contact"/> Get In Touch
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28" alt="contact"/> Get In Touch
 
 <div align="center">
 
