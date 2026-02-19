@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=blessedlab&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=developer%20•%20builder%20•%20tinkerer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Daniel%20Gidrewicz&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=OOP%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20DevOps%20%E2%80%A2%20God's%20Blessed%20Developer%20%F0%9F%99%8F&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Game+Dev+%7C+Web+Dev+%7C+Networking;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=OOP+%26+Software+Developer+%F0%9F%9A%80;DevOps+Engineer+%7C+System+Tinkerer+%E2%9A%99%EF%B8%8F;Open+Source+Enthusiast+%E2%9C%A8;Game+Dev+%7C+Web+Dev+%7C+Networking;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=blessedlab&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
@@ -14,29 +14,48 @@
 ---
 
 <!-- ABOUT ME -->
-## <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="28"/> About Me
+## <img src="https://media1.tenor.com/m/3oNHuQfmSEsAAAAC/lain-serial-experiments-lain.gif" width="30"> About Me
 
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 👤 Daniel Gidrewicz
 ```yaml
-name: Daniel Gidrewicz
-location: 📍 Warsaw → Poland → Earth → Solar System → Milky Way → Local Group → Virgo Supercluster → Observable Universe → ???
-role: Full-Stack Developer & System Tinkerer
-languages_spoken: ["Russian", "English", "Polish"]
-currently_working_on: "Something awesome 👀"
+name:      Daniel Gidrewicz
+alias:     blessedlab
+status:    God's Blessed Developer 🙏
+location:  Warsaw → Poland → Earth → Solar System
+           → Milky Way → Local Group
+           → Virgo Supercluster → Observable Universe → ??
+role:      OOP / Software Developer / DevOps
+languages: ["Russian", "English", "Polish"]
+building:  "Something awesome 👀"
 always_learning: true
-fun_fact: "I automate everything I do more than twice"
+fun_fact:  "I automate everything I do more than twice"
 ```
 
+</td>
+<td valign="top" width="40%" align="center">
+<img src="https://media1.tenor.com/m/3oNHuQfmSEsAAAAC/lain-serial-experiments-lain.gif" width="200"/>
+</td>
+</tr>
+</table>
+
 - 🔭 I'm currently working on **personal & open-source projects**
-- 🌱 Always exploring new technologies and expanding my stack
+- 🧠 OOP enthusiast — clean architecture, design patterns, SOLID
+- ⚙️ DevOps pipeline builder — Docker, CI/CD, self-hosting everything
 - 🎮 Game dev hobbyist — Godot & Unity enjoyer
-- 🐧 Linux power user | Self-hosting nerd | Raspberry Pi hoarder
+- 🐧 Linux power user | Raspberry Pi hoarder | Homelab nerd
 - 🤝 Open to collaboration on **interesting projects**
 - ⚡ Fun fact: I've probably already Dockerized this README
 
 ---
 
 <!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Stats
+## <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding-anime.gif" width="30"> GitHub Stats
 
 <div align="center">
 
@@ -51,19 +70,8 @@ fun_fact: "I automate everything I do more than twice"
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=blessedlab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- TECH STACK -->
-## <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="28"/> Tech Stack
+## <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30"> Tech Stack
 
 <details open>
 <summary><b>💻 Languages</b></summary>
@@ -116,7 +124,7 @@ fun_fact: "I automate everything I do more than twice"
 ---
 
 <!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
+## <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/anime-girl.gif" width="30"> Contribution Activity
 
 <div align="center">
 
@@ -126,23 +134,27 @@ fun_fact: "I automate everything I do more than twice"
 
 ---
 
-<!-- SNAKE -->
-## 🐍 Eating My Contributions...
+<!-- FAVOURITE ANIME -->
+## <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/awe-hi.gif" width="30"> Favourite Anime
 
-<div align="center">
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/awe-hi.gif" align="right" width="120"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blessedlab/blessedlab/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blessedlab/blessedlab/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/blessedlab/blessedlab/output/github-snake-dark.svg" />
-</picture>
+| # | Anime | Icon |
+|---|-------|------|
+| 01 | **Neon Genesis Evangelion** | <img src="https://slackmojis.com/emojis/5228-rei_ayanami/download" width="22"/> |
+| 02 | **Code Geass: Lelouch of the Rebellion** | <img src="https://slackmojis.com/emojis/12756-lelouch/download" width="22"/> |
+| 03 | **Tokyo Ghoul** | <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="22"/> |
+| 04 | **Serial Experiments Lain** | <img src="https://media1.tenor.com/m/3oNHuQfmSEsAAAAC/lain-serial-experiments-lain.gif" width="40"/> |
+| 05 | **Attack on Titan** | <img src="https://slackmojis.com/emojis/44744-aot/download" width="22"/> |
 
-</div>
+<br clear="right"/>
+
+> *"The fate of destruction is also the joy of rebirth."* — Evangelion
 
 ---
 
 <!-- FRIENDS & COLLABORATORS -->
-## 👾 Best Friends & Collaborators
+## <img src="https://media.tenor.com/NOmDSMCPBzYAAAAC/anime-friends.gif" width="30"> Best Friends & Collaborators
 
 <div align="center">
 
@@ -165,7 +177,7 @@ fun_fact: "I automate everything I do more than twice"
 ---
 
 <!-- QUOTE -->
-## 💬 Dev Quote of the Day
+## <img src="https://media.tenor.com/Wc5SpCj4TuQAAAAC/anime-think.gif" width="30"> Dev Quote of the Day
 
 <div align="center">
 
@@ -176,7 +188,7 @@ fun_fact: "I automate everything I do more than twice"
 ---
 
 <!-- CONTACT -->
-## 📫 Get In Touch
+## <img src="https://media.tenor.com/agF3HvkFMGAAAAAC/bocchi-the-rock-bocchi.gif" width="30"> Get In Touch
 
 <div align="center">
 
