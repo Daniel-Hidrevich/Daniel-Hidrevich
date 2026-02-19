@@ -1,20 +1,24 @@
 <div align="center">
 
-<!-- ANIMATED HEADER — anime dark style -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:1a0030&height=220&section=header&text=Daniel%20Gidrewicz&fontSize=60&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=OOP%20%2F%20Software%20Developer%20%2F%20DevOps%20%E2%80%94%20God%27s%20Blessed%20Developer&descAlignY=68&descSize=15&descColor=a78bfa" width="100%"/>
+<!-- ANIMATED HEADER — Evangelion red/white theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:7f1d1d&height=220&section=header&text=Daniel%20Gidrewicz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=God%27s%20Blessed%20Developer&descAlignY=68&descSize=18&descColor=f87171" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=OOP+%26+Software+Developer;DevOps+Engineer+%7C+System+Tinkerer;Open+Source+Enthusiast;Game+Dev+%7C+Homelab+Nerd;Always+learning%2C+always+building..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=dc2626&center=true&vCenter=true&random=false&width=700&lines=OOP+%26+Software+Developer;DevOps+Engineer+%7C+System+Tinkerer;Evangelion+Enjoyer;Always+learning%2C+always+building..." alt="Typing SVG"/>
 
 <!-- PROFILE VIEWS -->
-![Profile Views](https://komarev.com/ghpvc/?username=blessedlab&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=blessedlab&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
 <!-- ABOUT ME -->
-## <img src="https://i.imgur.com/dBaSKWF.gif" width="28" alt="fire"/> About Me
+## • About Me
+
+<div align="center">
+<img src="./assets/evangelion-about.png" width="200" alt="Evangelion — End of Evangelion scene" style="border-radius:12px;border:3px solid #dc2626;"/>
+</div>
 
 ```yaml
 name:             Daniel Gidrewicz
@@ -40,30 +44,14 @@ fun_fact:         "I automate everything I do more than twice"
 
 ---
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cIn5fTcjnXCaobYOrU/giphy.gif" width="28" alt="stats"/> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=blessedlab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedlab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=10" height="180px"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blessedlab&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="60%"/>
-
-</div>
-
----
-
 <!-- TECH STACK -->
-## <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="28" alt="itachi"/> Tech Stack
+## • Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
 <br/>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
 
@@ -110,59 +98,56 @@ fun_fact:         "I automate everything I do more than twice"
 ---
 
 <!-- ACTIVITY GRAPH -->
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28" alt="graph"/> Contribution Activity
+## • Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blessedlab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blessedlab&hide_border=true&bg_color=0D1117&color=dc2626&line=dc2626&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
 <!-- FAVOURITE ANIME -->
-## <img src="https://media.giphy.com/media/ye7OTQgwmVuVy/giphy.gif" width="28" alt="anime"/> Favourite Anime
+## • Favourite Anime
 
-| # | Anime |
-|---|-------|
-| 01 | **Neon Genesis Evangelion** |
-| 02 | **Code Geass: Lelouch of the Rebellion** |
-| 03 | **Tokyo Ghoul** |
-| 04 | **Serial Experiments Lain** |
-| 05 | **Attack on Titan** |
+<div align="center">
+
+| # | Cover | Anime |
+|---|-------|-------|
+| 01 | <img src="https://shikimori.me/system/animes/original/30.jpg" width="60" alt="Neon Genesis Evangelion cover"/> | **Neon Genesis Evangelion** |
+| 02 | <img src="https://shikimori.me/system/animes/original/1575.jpg" width="60" alt="Code Geass cover"/> | **Code Geass: Lelouch of the Rebellion** |
+| 03 | <img src="https://shikimori.me/system/animes/original/22319.jpg" width="60" alt="Tokyo Ghoul cover"/> | **Tokyo Ghoul** |
+| 04 | <img src="https://shikimori.me/system/animes/original/339.jpg" width="60" alt="Serial Experiments Lain cover"/> | **Serial Experiments Lain** |
+| 05 | <img src="https://shikimori.me/system/animes/original/16498.jpg" width="60" alt="Attack on Titan cover"/> | **Attack on Titan** |
+
+</div>
 
 > *"The fate of destruction is also the joy of rebirth."* — Evangelion
 
 ---
 
 <!-- FRIENDS & COLLABORATORS -->
-## <img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="28" alt="friends"/> Best Friends & Collaborators
+## • Best Friends & Collaborators
 
 <div align="center">
 
-<a href="https://github.com/btema2">
-  <img src="https://github-readme-stats.vercel.app/api?username=btema2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&hide_rank=false" height="150px"/>
-</a>
-<a href="https://github.com/MrMozozavr">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMozozavr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&hide_rank=false" height="150px"/>
-</a>
-
-<br/><br/>
-
 | Avatar | Username | Role |
 |--------|----------|------|
-| <img src="https://github.com/btema2.png" width="45"/> | [@btema2](https://github.com/btema2) | Friend & Collaborator |
-| <img src="https://github.com/MrMozozavr.png" width="45"/> | [@MrMozozavr](https://github.com/MrMozozavr) | Friend & Collaborator |
+| <img src="https://github.com/btema2.png" width="45" alt="btema2 avatar" style="border-radius:50%;border:2px solid #dc2626;"/> | [@btema2](https://github.com/btema2) | Friend & Collaborator |
+| <img src="https://github.com/MrMozozavr.png" width="45" alt="MrMozozavr avatar" style="border-radius:50%;border:2px solid #dc2626;"/> | [@MrMozozavr](https://github.com/MrMozozavr) | Friend & Collaborator |
 
 </div>
 
 ---
 
 <!-- CONTACT -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28" alt="contact"/> Get In Touch
+## • Get In Touch
 
 <div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-@DerpIcee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DerpIcee)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-blessed.lab%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:blessed.lab@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-blessedlab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blessedlab)
 
 > *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
@@ -174,6 +159,6 @@ fun_fact:         "I automate everything I do more than twice"
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0030,100:0d0d0d&height=130&section=footer&text=Daniel%20Gidrewicz&fontSize=28&fontColor=c084fc&animation=fadeIn&fontAlignY=65&desc=Warsaw%20%E2%80%A2%20Poland%20%E2%80%A2%20Earth%20%E2%80%A2%20Solar%20System%20%E2%80%A2%20Milky%20Way%20%E2%80%A2%20Local%20Group%20%E2%80%A2%20Virgo%20Supercluster%20%E2%80%A2%20Observable%20Universe%20%E2%80%A2%20%3F%3F%3F&descSize=11&descAlignY=83&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,100:1a0000&height=130&section=footer&text=See%20You%20Space%20Cowboy...&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
